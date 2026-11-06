@@ -1,0 +1,10 @@
+{
+  "name": "ai-math-study-notes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node site/build.mjs",
+    "start": "python3 -m http.server 8786 --bind 127.0.0.1 --directory site"
+  }
+}

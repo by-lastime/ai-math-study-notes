@@ -1,0 +1,31 @@
+{
+  "midtermAudit": {
+    "knowledgeGroups": 63,
+    "numberedStatements": 116,
+    "sourcePages": 610,
+    "handoutExamples": 81
+  },
+  "newHandoutCoverage": {
+    "expected": 81,
+    "matched": 81
+  },
+  "lecture14Homework": 18,
+  "handoutCoverage": {
+    "expected": 174,
+    "matched": 174
+  },
+  "reviewCollection": {
+    "source": 180,
+    "additional": 82,
+    "optional": 15,
+    "total": 262
+  },
+  "documents": 66,
+  "sourceQuestions": 277,
+  "handoutExamples": 174,
+  "pptExtra": 70,
+  "additional": 33,
+  "supplements": 55,
+  "mathCount": 15365,
+  "errors": []
+}

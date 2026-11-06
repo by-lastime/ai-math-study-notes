@@ -1,0 +1,15 @@
+{
+  "blocks": 2938,
+  "documentBlocksByKind": {
+    "heading": 994,
+    "block": 763,
+    "table": 51,
+    "figure": 859,
+    "quiz": 42
+  },
+  "supplements": 23,
+  "allHeadingsAnnotated": true,
+  "originalTextAndMathUnchanged": true,
+  "allAnchorsPreserved": true,
+  "gammaMixedQaChecked": true
+}

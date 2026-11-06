@@ -1,0 +1,667 @@
+[
+  {
+    "id": "00",
+    "stage": "准备",
+    "short": "工具与学法",
+    "title": "00｜先搭好数学工具箱",
+    "file": "讲次/00.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "tools",
+    "examNote": "期中与后续学习共用的数学工具。"
+  },
+  {
+    "id": "01",
+    "stage": "阶段一 · 事件与概率",
+    "short": "事件语言",
+    "title": "01｜把文字翻译成事件",
+    "file": "讲次/01.md",
+    "pages": [
+      8,
+      16
+    ],
+    "ppt": [
+      "p1"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "02",
+    "stage": "阶段一 · 事件与概率",
+    "short": "计数与古典概型",
+    "title": "02｜古典概型：先数对，再相除",
+    "file": "讲次/02.md",
+    "pages": [
+      16,
+      19
+    ],
+    "ppt": [
+      "p1"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "03",
+    "stage": "阶段一 · 事件与概率",
+    "short": "条件、独立与贝叶斯",
+    "title": "03｜条件概率、独立性与贝叶斯",
+    "file": "讲次/03.md",
+    "pages": [
+      19,
+      28
+    ],
+    "ppt": [
+      "p23"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "04",
+    "stage": "阶段二 · 一维随机变量",
+    "short": "离散模型",
+    "title": "04｜随机变量与六种离散模型",
+    "file": "讲次/04.md",
+    "pages": [
+      33,
+      39
+    ],
+    "ppt": [
+      "p45"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "05",
+    "stage": "阶段二 · 一维随机变量",
+    "short": "连续模型",
+    "title": "05｜连续分布：概率是面积",
+    "file": "讲次/05.md",
+    "pages": [
+      39,
+      43
+    ],
+    "ppt": [
+      "p45"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "06",
+    "stage": "阶段二 · 一维随机变量",
+    "short": "分布函数与变换",
+    "title": "06｜分布函数与随机变量的变换",
+    "file": "讲次/06.md",
+    "pages": [
+      43,
+      52
+    ],
+    "ppt": [
+      "p45"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "07",
+    "stage": "阶段二 · 一维随机变量",
+    "short": "期望与不等式",
+    "title": "07｜数学期望：先拆开，再平均",
+    "file": "讲次/07.md",
+    "pages": [
+      52,
+      62
+    ],
+    "ppt": [
+      "p56"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "08",
+    "stage": "阶段二 · 一维随机变量",
+    "short": "方差、矩与分位数",
+    "title": "08｜方差、矩与分位数",
+    "file": "讲次/08.md",
+    "pages": [
+      62,
+      72
+    ],
+    "ppt": [
+      "p7"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "09",
+    "stage": "阶段三 · 多维随机变量",
+    "short": "联合与边缘",
+    "title": "09｜联合分布：同时看两个随机变量",
+    "file": "讲次/09.md",
+    "pages": [
+      75,
+      87
+    ],
+    "ppt": [
+      "p8",
+      "p910"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "10",
+    "stage": "阶段三 · 多维随机变量",
+    "short": "条件分布与独立",
+    "title": "10｜条件分布与随机变量独立性",
+    "file": "讲次/10.md",
+    "pages": [
+      87,
+      96
+    ],
+    "ppt": [
+      "p910"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "11",
+    "stage": "阶段三 · 多维随机变量",
+    "short": "和、比值与换元",
+    "title": "11｜随机向量的函数：和、比值与换元",
+    "file": "讲次/11.md",
+    "pages": [
+      96,
+      104
+    ],
+    "ppt": [
+      "p12"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "37",
+    "stage": "阶段三 · 多维随机变量",
+    "short": "二元正态分布补充",
+    "title": "二元正态分布补充",
+    "file": "讲次/37-二元正态分布补充.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "lesson",
+    "navLabel": "补",
+    "examScope": "midterm",
+    "examNote": "按第09—12讲原顺序逐步讲解；具体要求沿用原题，了解内容不考。"
+  },
+  {
+    "id": "12",
+    "stage": "阶段三 · 多维随机变量",
+    "short": "相关性与条件期望",
+    "title": "12｜协方差、相关性与条件期望",
+    "file": "讲次/12.md",
+    "pages": [
+      104,
+      114
+    ],
+    "ppt": [
+      "p12",
+      "p14"
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中知识主线至本篇的条件期望；继续阅读“第十四讲收尾”完成新增例题和作业讲评。",
+    "extraSources": [
+      {
+        "id": "handout3",
+        "page": 106,
+        "label": "新版讲义 PDF106–116"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "stage": "阶段三 · 多维随机变量",
+    "short": "第十四讲收尾 · 期中截止",
+    "title": "第十四讲收尾｜条件期望与期中作业",
+    "file": "讲次/33.md",
+    "pages": [
+      110,
+      114
+    ],
+    "ppt": [
+      "p14"
+    ],
+    "extraSources": [
+      {
+        "id": "handout3",
+        "page": 112,
+        "label": "新版讲义 PDF112–116"
+      }
+    ],
+    "kind": "lesson",
+    "examScope": "midterm",
+    "examNote": "期中收尾：课程第十四讲结束，知识到 §3.7，§3.8 作总结；下篇起进入后续主线。"
+  },
+  {
+    "id": "38",
+    "stage": "复习阶段",
+    "short": "期中方法总复习",
+    "title": "期中总复习｜公式、结论与解题方法",
+    "file": "讲次/38-期中方法总复习.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "lesson",
+    "navLabel": "复",
+    "examScope": "midterm",
+    "examNote": "覆盖前三阶段及第十四讲收尾，按方法模块复习；了解内容集中简述、不作考点复习。"
+  },
+  {
+    "id": "39",
+    "stage": "复习阶段",
+    "short": "练习题 10.29",
+    "title": "练习题 10.29",
+    "file": "讲次/39-练习题10.29.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "lesson",
+    "navLabel": "题",
+    "examScope": "midterm",
+    "examNote": "原卷共4道大题；按原顺序保留题干，解答包含思路、运算与检查。",
+    "extraSources": [
+      {
+        "id": "practice1029",
+        "page": 1,
+        "label": "核对练习原卷 · 1页"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "stage": "复习阶段",
+    "short": "期中复习题集",
+    "title": "期中复习题集｜从基础到综合",
+    "file": "讲次/40-期中复习题集.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "practice",
+    "navLabel": "集",
+    "examScope": "midterm",
+    "examNote": "覆盖前三阶段与第十四讲；每题展开解答，学习要求沿用原讲义。了解内容不考。"
+  },
+  {
+    "id": "13",
+    "stage": "阶段四 · 高维与极限",
+    "short": "高维矩与次序统计量",
+    "title": "13｜高维向量、协方差矩阵与次序统计量",
+    "file": "讲次/13.md",
+    "pages": [
+      114,
+      126
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "14",
+    "stage": "阶段四 · 高维与极限",
+    "short": "多元正态与抽样分布",
+    "title": "14｜多元正态、卡方与 t 分布",
+    "file": "讲次/14.md",
+    "pages": [
+      126,
+      139
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "mixed",
+    "examNote": "主体为期中后的多元正态与抽样分布；原题H3-2-11（二元正态椭圆）及P30（二维语音分类示例）属于期中进度，单独复习这两项。"
+  },
+  {
+    "id": "15",
+    "stage": "阶段四 · 高维与极限",
+    "short": "概率极限定理",
+    "title": "15｜收敛、大数律与中心极限定理",
+    "file": "讲次/15.md",
+    "pages": [
+      140,
+      152
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "16",
+    "stage": "阶段五 · 点估计",
+    "short": "统计模型与 MLE",
+    "title": "16｜统计问题与极大似然估计",
+    "file": "讲次/16.md",
+    "pages": [
+      153,
+      161
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "17",
+    "stage": "阶段五 · 点估计",
+    "short": "矩估计、无偏与相合",
+    "title": "17｜矩估计、无偏性与相合性",
+    "file": "讲次/17.md",
+    "pages": [
+      161,
+      177
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "18",
+    "stage": "阶段五 · 点估计",
+    "short": "充分性与 UMVUE",
+    "title": "18｜充分统计量、完备性与 UMVUE",
+    "file": "讲次/18.md",
+    "pages": [
+      166,
+      175
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "19",
+    "stage": "阶段六 · 区间与检验",
+    "short": "置信区间",
+    "title": "19｜置信区间：把概率不等式反解成参数范围",
+    "file": "讲次/19.md",
+    "pages": [
+      177,
+      182
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "20",
+    "stage": "阶段六 · 区间与检验",
+    "short": "假设检验",
+    "title": "20｜假设检验：先定方向，再定拒绝域",
+    "file": "讲次/20.md",
+    "pages": [
+      183,
+      189
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "21",
+    "stage": "阶段七 · 图论",
+    "short": "图、度数与同构",
+    "title": "21｜图的语言、度数与同构",
+    "file": "讲次/21.md",
+    "pages": [
+      192,
+      202
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "22",
+    "stage": "阶段七 · 图论",
+    "short": "通路与连通",
+    "title": "22｜通路、连通性与二部图",
+    "file": "讲次/22.md",
+    "pages": [
+      202,
+      208
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "23",
+    "stage": "阶段七 · 图论",
+    "short": "树与生成树",
+    "title": "23｜树、生成树与根树",
+    "file": "讲次/23.md",
+    "pages": [
+      208,
+      216
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "24",
+    "stage": "阶段七 · 图论",
+    "short": "图的矩阵表示",
+    "title": "24｜关联矩阵、邻接矩阵与可达性",
+    "file": "讲次/24.md",
+    "pages": [
+      216,
+      226
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "25",
+    "stage": "阶段七 · 图论",
+    "short": "谱图与欧拉图",
+    "title": "25｜拉普拉斯矩阵与欧拉图",
+    "file": "讲次/25.md",
+    "pages": [
+      226,
+      230
+    ],
+    "ppt": [],
+    "kind": "lesson",
+    "examScope": "after",
+    "examNote": "主体在期中截止 §3.7 条件期望之后，本轮先不作为期中主线。"
+  },
+  {
+    "id": "26",
+    "stage": "练习与拓展",
+    "short": "AI 与拓展阅读",
+    "title": "26｜把数学接回 AI：PPT 补充与拓展阅读",
+    "file": "讲次/26.md",
+    "pages": [
+      29,
+      31
+    ],
+    "ppt": [
+      "p45",
+      "p56",
+      "p7",
+      "p910",
+      "p12"
+    ],
+    "kind": "lesson",
+    "examScope": "extension",
+    "examNote": "AI 与拓展阅读：配合期中知识理解，未将全部拓展标为必考。",
+    "extraSources": [
+      {
+        "id": "handout3",
+        "page": 73,
+        "label": "新版拓展阅读 PDF73–76"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "stage": "练习与拓展",
+    "short": "作业 A · 事件概率",
+    "title": "习题册 A｜第一次作业：事件与概率",
+    "file": "讲次/27.md",
+    "pages": [
+      19,
+      28
+    ],
+    "ppt": [
+      "p12"
+    ],
+    "kind": "practice",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "28",
+    "stage": "练习与拓展",
+    "short": "作业 B · 随机变量",
+    "title": "习题册 B｜随机变量作业：1–12 题精选",
+    "file": "讲次/28.md",
+    "pages": [
+      33,
+      72
+    ],
+    "ppt": [
+      "p45",
+      "p56",
+      "p7",
+      "p14"
+    ],
+    "kind": "practice",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "29",
+    "stage": "练习与拓展",
+    "short": "作业 C · 随机变量",
+    "title": "习题册 C｜随机变量作业：18–33 题精选",
+    "file": "讲次/29.md",
+    "pages": [
+      43,
+      72
+    ],
+    "ppt": [
+      "p45",
+      "p56",
+      "p7",
+      "p14"
+    ],
+    "kind": "practice",
+    "examScope": "midterm",
+    "examNote": "期中进度内；原文“了解／拓展／不做要求”的层级保留。"
+  },
+  {
+    "id": "35",
+    "title": "期中证明与方法补全｜从结论到推导",
+    "short": "期中证明与方法补全",
+    "stage": "练习与拓展",
+    "file": "讲次/35.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "practice",
+    "examScope": "midterm",
+    "examNote": "期中复核补强：证明遵守原课程要求层级；变式为新编训练，不是考试预测。"
+  },
+  {
+    "id": "36",
+    "title": "期中难题变式过关｜独立完成检查",
+    "short": "期中难题变式 · 12题",
+    "stage": "练习与拓展",
+    "file": "讲次/36.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "practice",
+    "examScope": "midterm",
+    "examNote": "期中复核补强：证明遵守原课程要求层级；变式为新编训练，不是考试预测。"
+  },
+  {
+    "id": "34",
+    "stage": "练习与拓展",
+    "short": "期中专用自测 · 100分",
+    "title": "期中专用自测｜截至第十四讲",
+    "file": "讲次/34.md",
+    "pages": [],
+    "ppt": [
+      "p14"
+    ],
+    "kind": "practice",
+    "examScope": "midterm",
+    "examNote": "新编诊断练习，建议90分钟；不是教师试卷或命题预测。范围截至§3.7条件期望。"
+  },
+  {
+    "id": "30",
+    "stage": "练习与拓展",
+    "short": "七次阶段检测",
+    "title": "阶段检测｜七次小测定位薄弱点",
+    "file": "讲次/30.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "practice",
+    "examScope": "mixed",
+    "examNote": "本轮做 S1–S3；S4–S7 涉及高维、极限、统计及图论，留待期中后。"
+  },
+  {
+    "id": "31",
+    "stage": "练习与拓展",
+    "short": "100 分综合自测",
+    "title": "综合自测｜100 分闭卷练习",
+    "file": "讲次/31.md",
+    "pages": [],
+    "ppt": [],
+    "kind": "practice",
+    "examScope": "after",
+    "examNote": "这是全课程综合自测，包含期中后内容；期中冲刺请使用第34篇期中专用自测。"
+  },
+  {
+    "id": "32",
+    "stage": "练习与拓展",
+    "short": "课件难题专题补强",
+    "title": "专题补强｜课件里的递推、变换与证明题",
+    "file": "讲次/32.md",
+    "pages": [],
+    "ppt": [
+      "p7",
+      "p12"
+    ],
+    "kind": "practice",
+    "examScope": "mixed",
+    "examNote": "期中优先做 T01–T05、T09；T06、T07出自§3.9，T08出自统计估计，暂留后续。"
+  }
+]

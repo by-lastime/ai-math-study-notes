@@ -1,0 +1,692 @@
+{
+  "date": "2026-10-31",
+  "scope": "第三阶段09、10、11、12、33；教材第三章§3.1–3.5、§3.7的对应例题",
+  "sourceQuestionCount": 54,
+  "newTextbookEntries": [
+    "U22",
+    "U23",
+    "U24",
+    "U25",
+    "U26",
+    "U27",
+    "U28",
+    "U29"
+  ],
+  "existingQuestionStemsAndSolutionsUnchanged": true,
+  "textbookNumberedExamples": {
+    "1.1": {
+      "questionId": "U22",
+      "lesson": "09",
+      "pages": [
+        148,
+        149
+      ]
+    },
+    "1.2": {
+      "questionId": "U22",
+      "lesson": "09",
+      "pages": [
+        148,
+        149
+      ]
+    },
+    "1.3": {
+      "questionId": "U22",
+      "lesson": "09",
+      "pages": [
+        148,
+        149
+      ]
+    },
+    "1.4": {
+      "questionId": "U22",
+      "lesson": "09",
+      "pages": [
+        148,
+        149
+      ]
+    },
+    "1.5": {
+      "questionId": "U22",
+      "lesson": "09",
+      "pages": [
+        148,
+        149
+      ]
+    },
+    "1.6": {
+      "questionId": "U22",
+      "lesson": "09",
+      "pages": [
+        148,
+        149
+      ]
+    },
+    "2.1": {
+      "questionId": "U23",
+      "lesson": "09",
+      "pages": [
+        151,
+        153
+      ]
+    },
+    "2.2": {
+      "questionId": "H3-2-1",
+      "lesson": "09",
+      "pages": [
+        151,
+        152
+      ]
+    },
+    "2.3": {
+      "questionId": "H3-2-2",
+      "lesson": "09",
+      "pages": [
+        152,
+        153
+      ]
+    },
+    "2.4": {
+      "questionId": "U23",
+      "lesson": "09",
+      "pages": [
+        151,
+        153
+      ]
+    },
+    "2.5": {
+      "questionId": "H3-2-4",
+      "lesson": "09",
+      "pages": [
+        153,
+        154
+      ]
+    },
+    "2.6": {
+      "questionId": "H3-2-5",
+      "lesson": "09",
+      "pages": [
+        156
+      ]
+    },
+    "2.7": {
+      "questionId": "H3-2-6",
+      "lesson": "09",
+      "pages": [
+        157,
+        158
+      ]
+    },
+    "2.8": {
+      "questionId": "H3-2-10",
+      "lesson": "09",
+      "pages": [
+        158,
+        159
+      ]
+    },
+    "2.9": {
+      "questionId": "H3-2-7",
+      "lesson": "09",
+      "pages": [
+        160,
+        161
+      ]
+    },
+    "3.1": {
+      "questionId": "U15",
+      "lesson": "10",
+      "pages": [
+        166
+      ]
+    },
+    "4.1": {
+      "questionId": "H3-5-1",
+      "lesson": "11",
+      "pages": [
+        169,
+        170,
+        171
+      ]
+    },
+    "4.2": {
+      "questionId": "U28",
+      "lesson": "11",
+      "pages": [
+        171
+      ]
+    },
+    "4.3": {
+      "questionId": "H3-5-2",
+      "lesson": "11",
+      "pages": [
+        171
+      ]
+    },
+    "4.4": {
+      "questionId": "H3-5-3",
+      "lesson": "11",
+      "pages": [
+        172
+      ]
+    },
+    "4.5": {
+      "questionId": "H3-5-4",
+      "lesson": "11",
+      "pages": [
+        172,
+        173
+      ]
+    },
+    "4.6": {
+      "questionId": "U24",
+      "lesson": "11",
+      "pages": [
+        173
+      ]
+    },
+    "4.7": {
+      "questionId": "U25",
+      "lesson": "11",
+      "pages": [
+        174,
+        175
+      ]
+    },
+    "4.8": {
+      "questionId": "U26",
+      "lesson": "11",
+      "pages": [
+        175,
+        176
+      ]
+    },
+    "5.1": {
+      "questionId": "U27",
+      "lesson": "12",
+      "pages": [
+        179,
+        180,
+        198
+      ]
+    },
+    "5.2": {
+      "questionId": "H3-6-1",
+      "lesson": "12",
+      "pages": [
+        180,
+        181
+      ]
+    },
+    "5.3": {
+      "questionId": "H3-6-2",
+      "lesson": "12",
+      "pages": [
+        181
+      ]
+    },
+    "7.1": {
+      "questionId": "U27",
+      "lesson": "12",
+      "pages": [
+        179,
+        180,
+        198
+      ]
+    },
+    "7.2": {
+      "questionId": "H3-3-3",
+      "lesson": "10",
+      "pages": [
+        198,
+        199
+      ]
+    },
+    "7.3": {
+      "questionId": "H3-3-1",
+      "lesson": "10",
+      "pages": [
+        199
+      ]
+    },
+    "7.4": {
+      "questionId": "H3-3-2",
+      "lesson": "10",
+      "pages": [
+        199,
+        200
+      ]
+    },
+    "7.5": {
+      "questionId": "H3-3-4",
+      "lesson": "10",
+      "pages": [
+        201
+      ]
+    },
+    "7.6": {
+      "questionId": "H3-3-5",
+      "lesson": "10",
+      "pages": [
+        201,
+        202
+      ]
+    },
+    "7.7": {
+      "questionId": "H3-7-2",
+      "lesson": "12",
+      "pages": [
+        204,
+        205
+      ]
+    },
+    "7.8": {
+      "questionId": "U29",
+      "lesson": "33",
+      "pages": [
+        205,
+        206
+      ]
+    }
+  },
+  "handoutExamples": {
+    "H3-2-1": {
+      "questionId": "H3-2-1",
+      "page": 79,
+      "pages": [
+        79
+      ],
+      "number": "3.2.1"
+    },
+    "H3-2-2": {
+      "questionId": "H3-2-2",
+      "page": 79,
+      "pages": [
+        79
+      ],
+      "number": "3.2.2"
+    },
+    "H3-2-3": {
+      "questionId": "H3-2-3",
+      "page": 80,
+      "pages": [
+        80
+      ],
+      "number": "3.2.3"
+    },
+    "H3-2-4": {
+      "questionId": "H3-2-4",
+      "page": 80,
+      "pages": [
+        80,
+        81
+      ],
+      "number": "3.2.4"
+    },
+    "H3-2-5": {
+      "questionId": "H3-2-5",
+      "page": 81,
+      "pages": [
+        81,
+        82
+      ],
+      "number": "3.2.5"
+    },
+    "H3-2-6": {
+      "questionId": "H3-2-6",
+      "page": 82,
+      "pages": [
+        82,
+        83
+      ],
+      "number": "3.2.6"
+    },
+    "H3-2-7": {
+      "questionId": "H3-2-7",
+      "page": 83,
+      "pages": [
+        83,
+        84
+      ],
+      "number": "3.2.7"
+    },
+    "H3-2-8": {
+      "questionId": "H3-2-8",
+      "page": 85,
+      "pages": [
+        85,
+        86
+      ],
+      "number": "3.2.8"
+    },
+    "H3-2-9": {
+      "questionId": "H3-2-9",
+      "page": 86,
+      "pages": [
+        86,
+        87
+      ],
+      "number": "3.2.9"
+    },
+    "H3-2-10": {
+      "questionId": "H3-2-10",
+      "page": 87,
+      "pages": [
+        87,
+        88
+      ],
+      "number": "3.2.10"
+    },
+    "H3-2-11": {
+      "questionId": "H3-2-11",
+      "page": 88,
+      "pages": [
+        88
+      ],
+      "number": "3.2.11"
+    },
+    "H3-3-1": {
+      "questionId": "H3-3-1",
+      "page": 90,
+      "pages": [
+        90
+      ],
+      "number": "3.3.1"
+    },
+    "H3-3-2": {
+      "questionId": "H3-3-2",
+      "page": 90,
+      "pages": [
+        90,
+        91
+      ],
+      "number": "3.3.2"
+    },
+    "H3-3-3": {
+      "questionId": "H3-3-3",
+      "page": 91,
+      "pages": [
+        91,
+        92
+      ],
+      "number": "3.3.3"
+    },
+    "H3-3-4": {
+      "questionId": "H3-3-4",
+      "page": 92,
+      "pages": [
+        92,
+        93
+      ],
+      "number": "3.3.4"
+    },
+    "H3-3-5": {
+      "questionId": "H3-3-5",
+      "page": 93,
+      "pages": [
+        93
+      ],
+      "number": "3.3.5"
+    },
+    "H3-3-6": {
+      "questionId": "H3-3-6",
+      "page": 93,
+      "pages": [
+        93,
+        94
+      ],
+      "number": "3.3.6"
+    },
+    "H3-4-1": {
+      "questionId": "H3-4-1",
+      "page": 97,
+      "pages": [
+        97
+      ],
+      "number": "3.4.1"
+    },
+    "H3-4-2": {
+      "questionId": "H3-4-2",
+      "page": 97,
+      "pages": [
+        97,
+        98
+      ],
+      "number": "3.4.2"
+    },
+    "H3-5-1": {
+      "questionId": "H3-5-1",
+      "page": 99,
+      "pages": [
+        99,
+        100,
+        101
+      ],
+      "number": "3.5.1"
+    },
+    "H3-5-2": {
+      "questionId": "H3-5-2",
+      "page": 101,
+      "pages": [
+        101
+      ],
+      "number": "3.5.2"
+    },
+    "H3-5-3": {
+      "questionId": "H3-5-3",
+      "page": 102,
+      "pages": [
+        102
+      ],
+      "number": "3.5.3"
+    },
+    "H3-5-4": {
+      "questionId": "H3-5-4",
+      "page": 102,
+      "pages": [
+        102,
+        103
+      ],
+      "number": "3.5.4"
+    },
+    "H3-5-5": {
+      "questionId": "H3-5-5",
+      "page": 105,
+      "pages": [
+        105
+      ],
+      "number": "3.5.5"
+    },
+    "H3-5-6": {
+      "questionId": "H3-5-6",
+      "page": 105,
+      "pages": [
+        105,
+        106
+      ],
+      "number": "3.5.6"
+    },
+    "H3-6-1": {
+      "questionId": "H3-6-1",
+      "page": 108,
+      "pages": [
+        108
+      ],
+      "number": "3.6.1"
+    },
+    "H3-6-2": {
+      "questionId": "H3-6-2",
+      "page": 108,
+      "pages": [
+        108,
+        109
+      ],
+      "number": "3.6.2"
+    },
+    "H3-6-3": {
+      "questionId": "H3-6-3",
+      "page": 109,
+      "pages": [
+        109,
+        110
+      ],
+      "number": "3.6.3"
+    },
+    "H3-6-4": {
+      "questionId": "H3-6-4",
+      "page": 110,
+      "pages": [
+        110
+      ],
+      "number": "3.6.4"
+    },
+    "H3-6-5": {
+      "questionId": "H3-6-5",
+      "page": 110,
+      "pages": [
+        110,
+        111
+      ],
+      "number": "3.6.5"
+    },
+    "H3-6-6": {
+      "questionId": "H3-6-6",
+      "page": 111,
+      "pages": [
+        111
+      ],
+      "number": "3.6.6"
+    },
+    "H3-6-7": {
+      "questionId": "H3-6-7",
+      "page": 111,
+      "pages": [
+        111,
+        112
+      ],
+      "number": "3.6.7"
+    },
+    "H3-6-8": {
+      "questionId": "H3-6-8",
+      "page": 112,
+      "pages": [
+        112
+      ],
+      "number": "3.6.8"
+    },
+    "H3-7-1": {
+      "questionId": "H3-7-1",
+      "page": 114,
+      "pages": [
+        114,
+        115
+      ],
+      "number": "3.7.1"
+    },
+    "H3-7-2": {
+      "questionId": "H3-7-2",
+      "page": 115,
+      "pages": [
+        115
+      ],
+      "number": "3.7.2"
+    }
+  },
+  "knowledgeEdits": [
+    "随机向量定义与五讲学习主线",
+    "连续密度、支持、边缘的含义及计算",
+    "二元正态五参数与条件正态公式的衔接",
+    "辅助变量、雅可比及偏导符号的说明",
+    "协方差存在条件与标准差符号",
+    "条件分布到条件期望再到重期望的衔接"
+  ],
+  "understandEdits": [
+    "全方差单列了解，删去额外演算",
+    "卷积、Maxwell变换与伽马命名分级",
+    "U25换元计算掌握，抽样应用了解",
+    "P33及生成模型联系保持简短了解"
+  ],
+  "textbookBoundary": "§3.6的n维联合分布与次序统计量、§3.8补充理论没有整体纳入本轮。二维最大值例4.6仍按本阶段CDF与独立方法收录。",
+  "note": "H3-6-7公交停站期望属于本书第三章，但网站已放在第二阶段07的指标法内，仍保留该入口。",
+  "handoutCoverage": {
+    "thirdChapterBeforeMidterm": 35,
+    "inStage3": 34,
+    "inStage2IndicatorExample": 1
+  },
+  "pptThirdStageIds": [
+    "H3-2-1",
+    "H3-2-2",
+    "H3-2-3",
+    "H3-2-4",
+    "H3-2-5",
+    "H3-2-6",
+    "H3-2-7",
+    "H3-2-8",
+    "H3-2-9",
+    "H3-2-10",
+    "H3-2-11",
+    "H3-6-5",
+    "P28",
+    "P29",
+    "P30",
+    "U14",
+    "H3-3-1",
+    "H3-3-2",
+    "H3-3-3",
+    "H3-3-4",
+    "H3-3-5",
+    "H3-3-6",
+    "H3-4-1",
+    "H3-4-2",
+    "H3-5-6",
+    "P32",
+    "U15",
+    "H3-5-1",
+    "H3-5-2",
+    "H3-5-3",
+    "H3-5-4",
+    "H3-5-5",
+    "H3-6-4",
+    "H3-6-8",
+    "P33",
+    "U16",
+    "H3-6-1",
+    "H3-6-2",
+    "H3-6-3",
+    "H3-6-6",
+    "H3-7-1",
+    "H3-7-2",
+    "P34",
+    "U17",
+    "U18",
+    "P53"
+  ],
+  "pdf": {
+    "path": "原始资料目录/output/pdf/期中第3阶段_多维随机变量与条件期望_重写版.pdf",
+    "pages": 43,
+    "sha256": "6bb364b1b6f38daa7c7d304a7f9c1d0975ef9dda31d2bd07dbf989607944a9f0"
+  },
+  "pdfLayout": {
+    "pages": 43,
+    "sparsePages": [],
+    "outsideHorizontalSafeBounds": [],
+    "missingGlyphs": 0,
+    "overfullBoxes": 0
+  },
+  "paperWebsiteOrderVerified": true,
+  "independentExercisesUnchanged": true,
+  "visualReview": "43页全部渲染检查；放大复核新增雅可比、教材概率表、极坐标与利润积分。",
+  "browserVerification": {
+    "passed": true,
+    "checks": [
+      "09概念定义与五参数",
+      "10条件正态掌握计算",
+      "11雅可比掌握计算",
+      "U23表格及教材151页",
+      "U25混合分级及U26公式",
+      "12条件期望掌握、全方差了解",
+      "U29答案及教材205—206页入口"
+    ],
+    "mathErrorsObserved": 0
+  }
+}

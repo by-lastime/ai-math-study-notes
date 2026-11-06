@@ -1,0 +1,485 @@
+{
+  "teacherRule": "了解不考；考查讲义明确要求掌握的内容",
+  "changes": [
+    {
+      "doc": "07",
+      "title": "两个不等式及其用途",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "title": "切比雪夫与高阶矩",
+      "before": "不等式：知晓；矩：掌握定义",
+      "after": "不等式：了解；矩：掌握定义"
+    },
+    {
+      "doc": "07",
+      "title": "H2-8-3｜凸函数散度非负",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "title": "H2-8-4｜KL 散度非负",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "title": "P22｜用平均 token 数界定长输出概率",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "title": "P23｜教师学生分布的 KL",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "title": "P24｜loss 偏离的切比雪夫界",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "title": "P27｜二阶矩控制平均损失",
+      "before": "知晓",
+      "after": "掌握计算"
+    },
+    {
+      "doc": "08",
+      "title": "P52｜图示：两倍标准差外的概率界",
+      "before": "知晓",
+      "after": "切比雪夫：了解；正态概率：掌握计算"
+    },
+    {
+      "doc": "33",
+      "title": "P63｜十四讲作业 19：广义 Markov 不等式",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "29",
+      "title": "C19｜广义 Markov 不等式",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "sections:07|碰到“最多有多少概率”时怎样选不等式",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "sections:08|先把要控制的事件改写成离均值多远",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "sections:26|Jensen 与 KL",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "sections:26|把求和写成期望，才看得出 Jensen 的入口",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "questions:36-H",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "questions:36-K",
+      "before": "掌握计算；不等式：知晓",
+      "after": "掌握计算；不等式：了解"
+    },
+    {
+      "key": "questions:U12",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "key": "inline:07-C",
+      "before": "期望：掌握计算；不等式：知晓",
+      "after": "期望：掌握计算；不等式：了解"
+    }
+  ],
+  "renderedChanges": 61,
+  "checks": {
+    "noRemainingZhiXiaoLabel": true,
+    "originalContentUnchanged": true,
+    "anchorsAndOrderUnchanged": true
+  },
+  "renderedExamples": [
+    {
+      "doc": "07",
+      "key": "s-7",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "s-8",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "q-H2-8-3",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-58",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-59",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-60",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-61",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-62",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-63",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "q-H2-8-4",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-65",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-66",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-67",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-68",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-69",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-70",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "q-P22",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-122",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "q-P23",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-124",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "q-U12",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-147",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-148",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-149",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-150",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-151",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-152",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-153",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-154",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-155",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-156",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-157",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-158",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-159",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-160",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-161",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "figure-162",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "07",
+      "key": "07-C",
+      "before": "期望：掌握计算；不等式：知晓",
+      "after": "期望：掌握计算；不等式：了解"
+    },
+    {
+      "doc": "07",
+      "key": "block-169",
+      "before": "期望：掌握计算；不等式：知晓",
+      "after": "期望：掌握计算；不等式：了解"
+    },
+    {
+      "doc": "08",
+      "key": "s-7",
+      "before": "不等式：知晓；矩：掌握定义",
+      "after": "不等式：了解；矩：掌握定义"
+    },
+    {
+      "doc": "08",
+      "key": "s-8",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "key": "paper-application-2-s-1",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "key": "paper-application-2-s-2",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "key": "q-P24",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "key": "figure-67",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "08",
+      "key": "q-P27",
+      "before": "知晓",
+      "after": "掌握计算"
+    },
+    {
+      "doc": "08",
+      "key": "figure-75",
+      "before": "知晓",
+      "after": "掌握计算"
+    },
+    {
+      "doc": "08",
+      "key": "q-P52",
+      "before": "知晓",
+      "after": "切比雪夫：了解；正态概率：掌握计算"
+    },
+    {
+      "doc": "08",
+      "key": "figure-108",
+      "before": "知晓",
+      "after": "切比雪夫：了解；正态概率：掌握计算"
+    },
+    {
+      "doc": "33",
+      "key": "q-P63",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "33",
+      "key": "block-78",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "33",
+      "key": "figure-79",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "33",
+      "key": "figure-80",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "26",
+      "key": "s-5",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "26",
+      "key": "s-6",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "29",
+      "key": "s-2",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "29",
+      "key": "block-4",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "36",
+      "key": "s-8",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "36",
+      "key": "36-H",
+      "before": "知晓",
+      "after": "了解"
+    },
+    {
+      "doc": "36",
+      "key": "s-11",
+      "before": "掌握计算；不等式：知晓",
+      "after": "掌握计算；不等式：了解"
+    },
+    {
+      "doc": "36",
+      "key": "36-K",
+      "before": "掌握计算；不等式：知晓",
+      "after": "掌握计算；不等式：了解"
+    }
+  ]
+}

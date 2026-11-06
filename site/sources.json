@@ -1,0 +1,98 @@
+[
+  {
+    "id": "handout",
+    "title": "学生总讲义",
+    "path": "AI中的数学_本科生_讲义.pdf",
+    "pages": 230
+  },
+  {
+    "id": "book",
+    "title": "教材 · 概率论分册",
+    "path": "概率与统计（概率论分册） (陈家鼎、郑忠国) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pages": 327
+  },
+  {
+    "id": "p1",
+    "title": "AI_中的数学 第一讲",
+    "path": "课程ppt/AI_中的数学 第一讲.pdf",
+    "pages": 43
+  },
+  {
+    "id": "p23",
+    "title": "AI_中的数学 第二三讲",
+    "path": "课程ppt/AI_中的数学 第二三讲.pdf",
+    "pages": 53
+  },
+  {
+    "id": "p45",
+    "title": "AI_中的数学 第四五讲",
+    "path": "课程ppt/AI_中的数学 第四五讲.pdf",
+    "pages": 74
+  },
+  {
+    "id": "p56",
+    "title": "AI_中的数学 第五六讲",
+    "path": "课程ppt/AI_中的数学 第五六讲.pdf",
+    "pages": 42
+  },
+  {
+    "id": "p7",
+    "title": "AI_中的数学_概率与统计部分 7.5",
+    "path": "课程ppt/AI_中的数学_概率与统计部分 7.5.pdf",
+    "pages": 43
+  },
+  {
+    "id": "p8",
+    "title": "AI_中的数学_概率与统计部分 8.5(1)",
+    "path": "课程ppt/AI_中的数学_概率与统计部分 8.5(1).pdf",
+    "pages": 31
+  },
+  {
+    "id": "p910",
+    "title": "AI_中的数学 九十讲(1)",
+    "path": "课程ppt/AI_中的数学 九十讲(1).pdf",
+    "pages": 75
+  },
+  {
+    "id": "p12",
+    "title": "AI_中的数学 十二讲(1)",
+    "path": "课程ppt/AI_中的数学 十二讲(1).pdf",
+    "pages": 80
+  },
+  {
+    "id": "hw1",
+    "title": "作业图片 · a40819dcaeb9273b4aeb4ebaef04e5b2.jpg",
+    "path": "a40819dcaeb9273b4aeb4ebaef04e5b2.jpg",
+    "pages": 1
+  },
+  {
+    "id": "hw2",
+    "title": "作业图片 · e570c80f68d21d328893069a4500e5bc.jpg",
+    "path": "e570c80f68d21d328893069a4500e5bc.jpg",
+    "pages": 1
+  },
+  {
+    "id": "hw3",
+    "title": "作业图片 · 截屏2026-10-17 11.34.57.png",
+    "path": "截屏2026-10-17 11.34.57.png",
+    "pages": 1
+  },
+  {
+    "id": "handout3",
+    "title": "新版本科生讲义 · 截至第三章前半",
+    "path": "AI中的数学_本科生_第三章.pdf",
+    "pages": 116
+  },
+  {
+    "id": "p14",
+    "title": "AI_中的数学 十四讲",
+    "path": "课程ppt/AI_中的数学 十四讲.pdf",
+    "pages": 53
+  },
+  {
+    "id": "practice1029",
+    "title": "练习题 10.29 · 用户提供原卷",
+    "path": "电子讲义/补充内容/练习题 10.29.pdf",
+    "pages": 1
+  }
+]
